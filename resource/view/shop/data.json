@@ -1,0 +1,99 @@
+[
+	{
+"id":1,
+"name":"Knot Front Mini Dress",
+"img":"../../../public/img/product-img/product-1.jpg",
+"img2":"../../../public/img/product-img/product-2.jpg",
+"old-price":"75",
+"new-price":"55",
+"discount":"20",
+"category":"dress"
+
+},
+{
+	"id":2,
+"name":"mini skirts",
+"img":"../../../public/img/product-img/product-2.jpg",
+"img2":"../../../public/img/product-img/product-3.jpg",
+"old-price":"65",
+"new-price":"55",
+"discount":"5",
+"category":"skirts"
+
+},
+{
+	"id":3,
+"name":"tarditional jeans",
+"img":"../../../public/img/product-img/product-3.jpg",
+"img2":"../../../public/img/product-img/product-4.jpg",
+"old-price":"105",
+"new-price":"85",
+"discount":"20",
+"category":"jeans"
+
+},
+{
+	"id":4,
+"name":"top skirt",
+"img":"../../../public/img/product-img/product-4.jpg",
+"img2":"../../../public/img/product-img/product-5.jpg",
+"old-price":"95",
+"new-price":"85",
+"discount":"15",
+"category":"dress"
+},
+
+	{
+		"id":5,
+"name":"Knot Front Mini Dress",
+"img":"../../../public/img/product-img/product-1.jpg",
+"img2":"../../../public/img/product-img/product-2.jpg",
+"old-price":"75",
+"new-price":"25",
+"discount":"65",
+"category":"dress"
+
+},
+{
+	"id":6,
+"name":"mini skirts",
+"img":"../../../public/img/product-img/product-2.jpg",
+"img2":"../../../public/img/product-img/product-3.jpg",
+"old-price":"65",
+"new-price":"75",
+"discount":"5",
+"category":"skirts"
+
+},
+{
+	"id":7,
+"name":"tarditional jeans",
+"img":"../../../public/img/product-img/product-3.jpg",
+"img2":"../../../public/img/product-img/product-4.jpg",
+"old-price":"105",
+"new-price":"45",
+"discount":"35",
+"category":"jeans"
+
+},
+{
+	"id":8,
+"name":"top skirt",
+"img":"../../../public/img/product-img/product-4.jpg",
+"img2":"../../../public/img/product-img/product-5.jpg",
+"old-price":"95",
+"new-price":"85",
+"discount":"15",
+"category":"dress"
+},
+{
+	"id":9,
+"name":"top skirt",
+"img":"../../../public/img/product-img/product-4.jpg",
+"img2":"../../../public/img/product-img/product-5.jpg",
+"old-price":"105",
+"new-price":"95",
+"discount":"15",
+"category":"dress"
+}
+ ]
