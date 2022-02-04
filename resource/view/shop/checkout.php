@@ -57,7 +57,7 @@ $.ajax({
                             <h6>`+value.name+`</h6>
                             <p class="size">category: `+value.category+`</p>
                             <p class="color">id: `+value.id+`</p>
-                            <p class="price">$ `+value.price+`</p>
+                            <p class="price">&#8377; `+value.price+`</p>
                         </div>
                     </a>
                 </div>`;
