@@ -1,6 +1,6 @@
 <p align="center"><a href="http://essence-ecomm-filter.herokuapp.com/resource/view/shop/" target="_blank"><img src="https://res.cloudinary.com/dj6zxiysv/image/upload/v1644407136/port1_zmylpb.png" width="400"></a></p>
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnMzihgnhkFc6PaPOtSr-1irfRORGHRSeJeA&usqp=CAU" width="400px" height="400px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnMzihgnhkFc6PaPOtSr-1irfRORGHRSeJeA&usqp=CAU" width="150px" height="200px">
 </p>
 
 
