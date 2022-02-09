@@ -1,6 +1,6 @@
-<p align="center"><a href="https://laravel-chat-app-pusher.herokuapp.com/" target="_blank"><img src="https://res.cloudinary.com/dj6zxiysv/image/upload/v1644407136/port1_zmylpb.png" width="400"></a></p>
+<p align="center"><a href="http://essence-ecomm-filter.herokuapp.com/resource/view/shop/" target="_blank"><img src="https://res.cloudinary.com/dj6zxiysv/image/upload/v1644407136/port1_zmylpb.png" width="400"></a></p>
 <p align="center">
-<img src="https://res.cloudinary.com/dj6zxiysv/image/upload/v1644407770/download_vdjzju.png" width="200px" height="200px">
+<img src="https://res.cloudinary.com/dj6zxiysv/image/upload/v1644407770/download_vdjzju.png" width="400px" height="400px">
 </p>
 
 
